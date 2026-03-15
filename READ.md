@@ -13,7 +13,7 @@ This project builds a full CI/CD pipeline that automatically deploys a Python Fl
 - GitHub Actions
 
 ## Project Structure
-
+```
 cicd-pipeline/
 ├── app/
 │   ├── app.py
@@ -31,6 +31,7 @@ cicd-pipeline/
 │       └── deploy.yml
 ├── Dockerfile
 └── README.md
+```
 
 ## Prerequisites
 - AWS CLI installed and configured
